@@ -1,3 +1,3 @@
-# Homesteading.io Website
+# DarkMatterApp.com Website
 
-Website for http://homesteading.io
+Website for http://darkmatterapp.com
